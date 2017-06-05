@@ -23,7 +23,7 @@
 
 	<groupId>com.github.Balhindi</groupId>
 	<artifactId>desktop-cucumber-jvm-parallel-plugin</artifactId>
-	<version>2.0.9</version>
+	<version>2.1.1</version>
 	<packaging>maven-plugin</packaging>
 
 	<properties>
